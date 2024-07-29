@@ -4,16 +4,16 @@
   
   
   <entry>
-    <title>zimuyanghua</title>
+    <title>Welcome</title>
     <link href="/2024/07/29/first/"/>
     <url>/2024/07/29/first/</url>
     
-    <content type="html"><![CDATA[<p>子非花下寻常客，奈何缘浅一身轻</p><span id="more"></span><h1 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>本项目是基于Hexo+Fluid开发的静态博客网站，详情见友链</p>]]></content>
     
     
     <categories>
       
-      <category>随感</category>
+      <category>随写</category>
       
     </categories>
     
